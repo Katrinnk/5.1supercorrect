@@ -1,0 +1,2 @@
+E:\vs\5.1correct\Debug\5.1correct.exe
+E:\vs\5.1correct\Debug\5.1correct.pdb
